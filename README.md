@@ -3,12 +3,12 @@
 
 #### Specifications / Характеристики:
 ````
-CPU: 4-bit KB1013VK/KB1515HM3 Harvard architecture microcontroller
+CPU: 4-bit KB1013VK1-2 / КБ1013ВК1-2
 RAM: 65 x 4-bit words on-chip
 ROM: 1830 words on-chip
-Screen:
-Size: 112 х 67 х 14
-Weight: 0,09
+Screen / Дисплей: ИЖМ2-71-01
+Size / Размеры: 112 х 67 х 14
+Weight / Вес: 0,09
 ````
 #### Games
 ````
