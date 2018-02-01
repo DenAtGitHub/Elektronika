@@ -8,11 +8,13 @@ ROM: 1830 words on-chip
 Screen:
 Size: 112 х 67 х 14
 Weight: 0,09
+
+## Games
 ````
-Elektronika 24-01 Mickey Mouse / Электроника 24-01 Микки Маус / Nintendo Game & Watch MC-25 Mickey Mouse clone
-Elektronika MG-02 Just you wait / Электроника ИМ-02 Ну, погоди! / Nintendo Game & Watch EG-26 Egg clone
-Elektronika MG-03 Mysteries of the ocean / Электроника ИМ-03 Тайны океана / Nintendo Game & Watch OC-22 Octopus clone
-Elektronika MG-04 Merry cook / Электроника ИМ-04 Весёлый повар / Nintendo Game & Watch FP-24 Chef clone
+Elektronika 24-01 Mickey Mouse / Электроника 24-01 Микки Маус / Nintendo Game & Watch MC-25 Mickey Mouse
+Elektronika MG-02 Just you wait / Электроника ИМ-02 Ну, погоди! / Nintendo Game & Watch EG-26 Egg
+Elektronika MG-03 Mysteries of the ocean / Электроника ИМ-03 Тайны океана / Nintendo Game & Watch OC-22 Octopus
+Elektronika MG-04 Merry cook / Электроника ИМ-04 Весёлый повар / Nintendo Game & Watch FP-24 Chef
 Elektronika MG-09 Space bridge / Электроника ИМ-09 Космический мост / Nintendo Game & Watch FR-27 Fire
 Elektronika MG-10 Ice Hockey / Электроника ИМ-10 Хоккей
 Elektronika MG-13 Explorers of Space / Электроника ИМ-13 Разведчики космоса
