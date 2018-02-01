@@ -1,5 +1,5 @@
 # Elektronika
-## Elektronika microprocessor-based games
+** Elektronika microprocessor-based games **
 
 Specifications / Характеристики:
 CPU: 4-bit KB1013VK/KB1515HM3 Harvard architecture microcontroller
