@@ -1,7 +1,7 @@
 # Elektronika
 #### Elektronika microprocessor-based games
 
-Specifications / Характеристики:
+## Specifications / Характеристики:
 CPU: 4-bit KB1013VK/KB1515HM3 Harvard architecture microcontroller
 RAM: 65 x 4-bit words on-chip
 ROM: 1830 words on-chip
