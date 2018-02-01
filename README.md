@@ -2,13 +2,14 @@
 ## Elektronika microprocessor-based games
 
 #### Specifications / Характеристики:
+````
 CPU: 4-bit KB1013VK/KB1515HM3 Harvard architecture microcontroller
 RAM: 65 x 4-bit words on-chip
 ROM: 1830 words on-chip
 Screen:
 Size: 112 х 67 х 14
 Weight: 0,09
-
+````
 #### Games
 ````
 Elektronika 24-01 Mickey Mouse / Электроника 24-01 Микки Маус / Nintendo Game & Watch MC-25 Mickey Mouse
