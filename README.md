@@ -1,6 +1,5 @@
 # Elektronika / Электроника
-## Elektronika microprocessor-based games /
-## 
+## Microprocessor-based game / Игра микропроцессорная
 
 #### Specifications / Характеристики:
 ````
