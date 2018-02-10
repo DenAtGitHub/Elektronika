@@ -27,8 +27,9 @@ Elektronika MG-32 / Электроника ИМ 32 Кот-рыболов
 Elektronika MG-33 Frogling / Электроника ИМ 33 Квака-задавака
 Elektronika MG-36 / Электроника ИМ 36 Весёлая рыбалка
 Elektronika MG-49 Night Burglars / Электроника ИМ 49 Ночные воришки
-Elektronila MG-50 Amusing arithmetic / Электроника ИМ 50 Весёлая арифметика
+Elektronila MG-50(57) Amusing arithmetic / Электроника ИМ 50(57) Весёлая арифметика
 Elektronika MG-50 Space Flight / Электроника ИМ 50 Космический полёт
+Elektronika MG-51 See Fight / Электроника ИМ 51 Морской бой
 Elektronika MG-53 / Электроника ИМ 53 Атака астероидов
 ````
 ````
