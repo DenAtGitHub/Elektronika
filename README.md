@@ -4,8 +4,8 @@
 #### Specifications / Характеристики:
 ````
 CPU: 4-bit ИМ 02:КБ1013ВК1-2, ИМ 03:КБ1013ВК2-2, ИМ 04:КБ1013ВК3-2 
-RAM: 65 x 4-bit words on-chip
-ROM: 1830 words on-chip
+RAM: 65 x 4-bit
+ROM: 1830
 Screen / Индикатор: ИМ 02:ИЖМ1-42, ИЖМ2-71-01, ИЖМ3-71, ИЖМ13-71, ИМ 03:ИЖМ5-71
 Size / Размеры: 112 х 67 х 14
 Weight / Вес: 0,08
@@ -17,7 +17,7 @@ Warranty / Гарантия: 12 месяцев
 #### Games / Игры:
 ````
 Elektronika 24-01 Mickey Mouse / Электроника 24-01 "Микки Маус" / Аналог: Nintendo Game & Watch MC-25 Mickey Mouse
-Elektronika MG-02 Just you wait / Электроника ИМ 02 "Ну, погоди!" / Аналог: Nintendo Game & Watch EG-26 Egg
+Elektronika MG-02 Wolf & Hare / Электроника ИМ 02 "Ну, погоди!" / Аналог: Nintendo Game & Watch EG-26 Egg
 Elektronika MG-03 Mysteries of the ocean / Электроника ИМ 03 "Тайны океана" / Аналог: Nintendo Game & Watch OC-22 Octopus
 Elektronika MG-04 Merry cook / Электроника ИМ 04 "Весёлый повар" / Аналог: Nintendo Game & Watch FP-24 Chef
 Elektronika MG-09 Space bridge / Электроника ИМ 09 "Космический мост" / Аналог: Nintendo Game & Watch FR-27 Fire
