@@ -32,31 +32,31 @@ Lifetime / Срок службы: 10 years / лет
 ````
 Elektronika 24-01 Mickey Mouse / Электроника 24-01 "Микки Маус" / Аналог: Nintendo Game & Watch MC-25 Mickey Mouse
 Elektronika MG-02 Wolf & Hare / Электроника ИМ 02 "Ну, погоди!" / Аналог: Nintendo Game & Watch EG-26 Egg
-Elektronika MG-03 Mysteries of the ocean / Электроника ИМ 03 "Тайны океана" / Аналог: Nintendo Game & Watch OC-22 Octopus
-Elektronika MG-04 Merry cook / Электроника ИМ 04 "Весёлый повар" / Аналог: Nintendo Game & Watch FP-24 Chef
-Elektronika MG-09 Space bridge / Электроника ИМ 09 "Космический мост" / Аналог: Nintendo Game & Watch FR-27 Fire
+Elektronika MG-03 Mysteries of the Ocean / Электроника ИМ 03 "Тайны океана" / Аналог: Nintendo Game & Watch OC-22 Octopus
+Elektronika MG-04 Merry Cook / Электроника ИМ 04 "Весёлый повар" / Аналог: Nintendo Game & Watch FP-24 Chef
+Elektronika MG-09 Space Bridge / Электроника ИМ 09 "Космический мост" / Аналог: Nintendo Game & Watch FR-27 Fire
 Elektronika MG-10 Ice Hockey / Электроника ИМ 10 "Хоккей" / Аналог: ИМ 02
-Elektronika MG-13 (13м) Explorers of Space / Электроника ИМ 13 (13м) "Разведчики космоса"
+Elektronika MG-13 Explorers of Space / Электроника ИМ 13 "Разведчики космоса"
 Elektronika MG-16 Fowling / Электроника ИМ 16 "Охота" / Аналог: ИМ 02
-Elektronika MG-19 / Электроника ИМ 19 "Биатлон" / Аналог: ИМ 02
+Elektronika MG-19 Biathlon / Электроника ИМ 19 "Биатлон" / Аналог: ИМ 02
 Elektronika MG-22 Monkey Goalkeeper / Электроника ИМ 22 "Весёлые футболисты" / Аналог: ИМ 02
-Elektronika MG-23 / Электроника ИМ 23 "Автослалом"
-Elektronika MG-32 / Электроника ИМ 32 "Кот-рыболов" / Аналог: ИМ 02
+Elektronika MG-23 Autoslalom / Электроника ИМ 23 "Автослалом"
+Elektronika MG-32 Cat-Fisherman / Электроника ИМ 32 "Кот-рыболов" / Аналог: ИМ 02
 Elektronika MG-33 Frogling / Электроника ИМ 33 "Квака-задавака" / Аналог: ИМ 02
-Elektronika MG-36 / Электроника ИМ 36 "Весёлая рыбалка" / Аналог: ИМ 02
+Elektronika MG-36 Fun Fishing / Электроника ИМ 36 "Весёлая рыбалка" / Аналог: ИМ 02
 Elektronika MG-49 Night Burglars / Электроника ИМ 49 "Ночные воришки" ("Воришки") / Аналог: ИМ 02
-Elektronila MG-50 (57) Amusing arithmetic / Электроника ИМ 50 (57) "Весёлая арифметика"
 Elektronika MG-50 Space Flight / Электроника ИМ 50 "Космический полёт" / Аналог: ИМ 02
 Elektronika MG-51 See Fight / Электроника ИМ 51 "Морской бой" ("Морская атака") / Аналог: ИМ 02
 Elektronika MG-53 Asteroids attack / Электроника ИМ 53 "Атака астероидов" ("Космические встречи") / Аналог: ИМ 02
 ````
 ````
+Elektronika Circus / Электроника "Цирк" / Аналог: ИМ 02
 Elektronika Fisherman / Электроника "Рыбалка" / Аналог: ИМ 02
-Электроника "Цирк" / Аналог: ИМ 02
-Электроника "Ниндзя" / Аналог: ИМ 02
-Электроника "Избушка" / Аналог: ИМ 02
-Электроника "Золотая антилопа" / Аналог: ИМ 02
-Электроника "Черепашки-ниндзя" / Аналог: ИМ 02
-Электроника "Охотники за привидениями" / Аналог: ИМ 02
-Электроника ЧЭ-01 "Ритм"
+Elektronika Ninja Turtle / Электроника "Черепашка-ниндзя" / Аналог: ИМ 02
+Elektronika Ninja / Электроника "Ниндзя" / Аналог: ИМ 02
+Elektronika Izbushka / Электроника "Избушка" / Аналог: ИМ 02
+Elektronika Slimer (Ghostbasters) / Электроника "Охотники за привидениями" / Аналог: ИМ 02
+Elektronika Alarm Clock / Электроника ЧЭ-01 "Ритм"
 ````
+````
+Elektronila MG-50 (57) Amusing arithmetic / Электроника ИМ 50 (57) "Весёлая арифметика"
